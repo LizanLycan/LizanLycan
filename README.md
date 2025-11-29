@@ -7,7 +7,7 @@ I recommend generating a banner with Midjourney or DALL-E with the prompt:
 Upload it to your repo and link it here. For now, I am using a placeholder.
 -->
 
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0d1117%26height%3D300%26section%3Dheader%26text%3DLIZANDRO%2520ZERPA%26fontSize%3D90%26animation%3DfadeIn%26fontAlignY%3D38%26desc%3DArchitecting%2520the%2520Symbiosis%2520of%2520Web3,%2520AI,%2520and%2520Humanity%26descAlignY%3D55%26descAlign%3D62" width="100%"/>
+<img src="./assets/openart-image_Jbl2HQ_9_1764420657661_raw.jpg" width="100%"/>
 
 <!-- Typing Effect Header -->
 
@@ -52,6 +52,7 @@ Blockchain & Web3
 Modern Web & AI
 
 Infrastructure & DevOps
+
 </div>
 
 🚀 Key Deployments
@@ -61,12 +62,10 @@ Infrastructure & DevOps
 <td width="50%">
 <h3 align="center">🌐 HUB.xyz</h3>
 <div align="center">
-Architected a Social Engagement solution unifying Web2 & Web3. 
-
-
-
+Architected a Social Engagement solution unifying Web2 & Web3.
 
 Designed a multimodal AI data labeling platform supporting major tech giants (Adobe, OpenAI).
+
 </div>
 </td>
 <td width="50%">
@@ -74,10 +73,8 @@ Designed a multimodal AI data labeling platform supporting major tech giants (Ad
 <div align="center">
 Frontend development for El Salvador's official Bitcoin wallet.
 
-
-
-
 Handled Template interaction for SSR functionalities and integration with Django backend.
+
 </div>
 </td>
 </tr>
