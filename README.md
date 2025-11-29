@@ -16,10 +16,15 @@ Upload it to your repo and link it here. For now, I am using a placeholder.
 <!-- Social Badges -->
 
 <p>
-<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lizandro-zerpa-1a785a119" />
+<a href="https://www.linkedin.com/in/lizandro-zerpa-1a785a119" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
+<a href="https://twitter.com/LizandroZerpa" target="_blank">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white&link=https://twitter.com/LizandroZerpa" />
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:lizandroal.zerpa@gmail.com" />
+</a>
+<a href="mailto:lizandroal.zerpa@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
 
 </div>
@@ -101,15 +106,15 @@ Led smart contract development for a multi-chain dApp (Ethereum/Algorand) managi
 
 <!-- GitHub Stats Card -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
 <img height="180em" src="https://github-readme-stats.vercel.app/api%3Fusername%3DLizanLycan%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue%26hide%3Dissues" />
-</a>
+</a> -->
 
 <!-- Most Used Languages -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DLizanLycan%26layout%3Dcompact%26theme%3Dtokyonight%26hide%3Dhtml,css" />
-</a>
+</a> -->
 
 </div>
 
