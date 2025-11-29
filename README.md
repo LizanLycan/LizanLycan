@@ -11,20 +11,15 @@ Upload it to your repo and link it here. For now, I am using a placeholder.
 
 <!-- Typing Effect Header -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=2000&pause=1000&color=DC00F7&center=true&vCenter=true&multiline=true&width=440&lines=Full+Stack+Software+Engineer+;Blockchain+Engineer;AI+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=2000&color=DC00F7&center=true&vCenter=true&multiline=true&width=440&height=100&lines=Full+Stack+Software+Engineer+;Blockchain+Engineer;AI+Enthusiast" alt="Typing SVG" /></a>
 
 <!-- Social Badges -->
 
 <p>
-<a href="https://www.linkedin.com/in/lizandro-zerpa-1a785a119" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lizandro-zerpa-1a785a119" />
 </a>
-<a href="https://twitter.com/LizandroZerpa" target="_blank">
-<img src="https://img.shields.io/badge/X-000000%3Fstyle%3Dfor-the-badge%26logo%3Dx%26logoColor%3Dwhite" />
-</a>
-<a href="mailto:lizandroal.zerpa@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" />
-</a>
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white&link=https://twitter.com/LizandroZerpa" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:lizandroal.zerpa@gmail.com" />
 </p>
 
 </div>
@@ -33,7 +28,7 @@ Upload it to your repo and link it here. For now, I am using a placeholder.
 
 🐺 About The Architect
 
-I am a Full Stack Software Engineer specializing in the convergence of decentralized technologies and Artificial Intelligence. With a background in Systems Engineering and advanced specialization from 42 Wolfsburg, I build robust, scalable architectures that bridge the gap between Web2 utility and Web3 ownership.
+I am a Full Stack Software Engineer specializing in the convergence of decentralized technologies and Artificial Intelligence. With a background in Systems Engineering and advanced specialization from Universidad de Los Andes and 42 Wolfsburg, I build robust, scalable architectures that bridge the gap between Web2 utility and Web3 ownership.
 
 🔭 Currently: Architecting Social Engagement & AI Data Labeling solutions at HUB.xyz.
 
