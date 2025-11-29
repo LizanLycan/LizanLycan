@@ -120,9 +120,9 @@ Led smart contract development for a multi-chain dApp (Ethereum/Algorand) managi
 
 <!-- Streak Stats -->
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DLizanLycan%26theme%3Dtokyonight%26hide_border%3Dtrue" />
-</div>
+</div> -->
 
 <!-- Snake Animation (Requires Action Setup - See instructions below) -->
 
